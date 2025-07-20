@@ -1,27 +1,21 @@
- I demonstrate how I implemented the AAA security model — specifically focusing on Authentication and Authorization — using two sample users: Joe and Jeney.
+Symmetric vs Asymmetric 🔐
 
 
 
- Authentication verifies the identity of users (ensuring only Joe or Jeney can log in), and Authorization defines what each user is allowed to access or perform in the 
+ I break down the core principles of data encryption and demonstrate how both classical and modern encryption techniques work using:
 
 
 
- Created two users with distinct roles
+✅ Caesar Cipher – A classical symmetric method
 
- Implemented secure login logic
+✅ AES (Advanced Encryption Standard) – A modern symmetric encryption algorithm
 
- Applied role-based access control
-
- Followed the AAA (Authentication, Authorization, Accounting) principles for structured and secure access management
+✅ RSA (Rivest-Shamir-Adleman) – A powerful asymmetric encryption system
 
 
 
-This video provides a clear, practical example of how AAA standards can be applied in modern applications to enhance security and control user behavior.
+Whether you're a beginner in cybersecurity or brushing up on the AAA (Authentication, Authorization, Accounting) standards, this practical walkthrough will help you understand how data can be secured in transit and at rest.
 
 
 
- Great for anyone learning backend development or security best practices.
-
-
-
-Feel free to check it out and share your feedback!
+🎥 Dive into real examples and see the difference between symmetric and asymmetric encryption in action!
